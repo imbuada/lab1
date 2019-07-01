@@ -1,14 +1,32 @@
-body{background-color: darkseagreen;
+body{background-color:#00ffcc;
      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
      text-align: center;
      align-items: center
     }
-h1{ outline-style: double}
+#title{
+    outline-style: double;
+    outline-color: #ffff00;
+}
+
+#about{
+    text-align: center;
+}
+#profilePic{
+    display: block;
+    margin-left: 125px;
+    margin-right: 90px;
+    outline-width: 5px;
+    outline-style: solid;
+    
+}
 
 #profile{
+    background-color: #0066ff;
     float: left;
     outline-style: dotted;
     outline-color: blanchedalmond;
-    outline-width: 100px;
+    outline-width: 10px;
+    text-align: left;
+    padding: 5px
 
 }
