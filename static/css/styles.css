@@ -1,4 +1,14 @@
-body{background-color: darkseagreen; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: center; align-items: center
+body{background-color: darkseagreen;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     text-align: center;
+     align-items: center
     }
 h1{ outline-style: double}
+
+#profile{
+    float: left;
+    outline-style: dotted;
+    outline-color: blanchedalmond;
+    outline-width: 100px;
+
+}
