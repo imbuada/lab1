@@ -64,3 +64,10 @@ h3{
     outline-color: #003300;
     outline-width: 5px;
 }
+
+#backTop{
+    color: gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 15px;
+    font-size: 20px;
+}
