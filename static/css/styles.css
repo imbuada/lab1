@@ -40,7 +40,7 @@ body{background-color:#00ffcc;
 }
 
 #scs{
-    position: fixed;
+    position: sticky;
     float: right;
     margin-left: 100px;
 }
