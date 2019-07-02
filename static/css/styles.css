@@ -49,6 +49,18 @@ body{background-color:#00ffcc;
 }
 
 #iron{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #660066; 
+}
+
+h3{
+    color: #000099;
+}
+
+#fave{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #000099;
+    outline-style: dashed;
+    outline-color: #003300;
+    outline-width: 5px;
 }
