@@ -35,14 +35,12 @@ body{background-color:#00ffcc;
 }
 
 #guildCard{
-    float: left;
-    margin-right:100px;
+    float: center;
 }
 
 #scs{
     position: sticky;
-    float: right;
-    margin-left: 100px;
+    float: center;
 }
 
 #tekken{
