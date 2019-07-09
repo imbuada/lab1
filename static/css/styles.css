@@ -1,5 +1,9 @@
+*{
+    background-image: url("/static/images/shots.png"); 
+    background-color: aquamarine;
+ }
 body{
-     background-image: url('/static/images/yuna-sending.jpg');
+    
      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
      text-align: center;
      align-items: center;
