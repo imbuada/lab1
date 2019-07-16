@@ -18,7 +18,6 @@
 }
 #profilePic{
     
-   
     outline-style:solid;
     outline-color: black;
     outline-width:10px;
@@ -37,6 +36,8 @@
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
+    font-family: fantasy;
+    
 }
 
 #title{
@@ -74,5 +75,62 @@
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+#about{
+    position: static; text-align: center;
+    width: 500px;
+    margin: auto;
+    float: left;
+    outline-style: solid;
+    outline-width: 5px;
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+
+#profilePic{
+    margin:auto
+}
+
+#aboutContents{
+    position: static; text-align: center;
+    width: 500px;
+    margin: auto;
+    float: center;
+    outline-style: solid;
+    outline-width: 5px;
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#games{
+    position: static; text-align: center;
+    width: 500px;
+    margin: auto;
+    outline-style: solid;
+    outline-width: 5px;
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#guildCard{
+    float:center;
+}
+#mhw{
+    position: static; text-align: center;
+    width: 500px;
+    margin: auto;
+    outline-style: solid;
+    outline-width: 5px;
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
+
 
 
