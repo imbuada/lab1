@@ -16,4 +16,26 @@
     height: 100vh;
     z-index: -8000;
 }
+#profilePic{
+    
+   
+    outline-style:solid;
+    outline-color: black;
+    outline-width:10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.titleName{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
 
