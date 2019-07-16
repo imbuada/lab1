@@ -149,6 +149,10 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+#fav{
+    float:center;  
+}
+
 #fave{
     position: static; text-align: center;
     width: 500px;
@@ -160,17 +164,11 @@
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
 }
-h3{
-    position: static; text-align: center;
-    width: 500px;
-    margin: auto;
-    float: center;
-    outline-style: solid;
-    outline-width: 5px;
-    background-color: black;
-    color: white;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
+
+
+
+
+
 
 
 
