@@ -1,99 +1,19 @@
-body{
-    position: relative;
-    background: rgb(34,184,195);
-    background: linear-gradient(0deg, rgba(34,184,195,1) 43%, rgba(63,253,45,1) 100%);   
-     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-     text-align: center;
-     align-items: center;
-     
-     
-    }
-#title{
-    text-align: center; 
-    float:center;
-    outline-style: double;
-    outline-width: 5px;
-    outline-color:blue;
-    padding: 30px;
+.yuna-background{
+    position: fixed;
+    left: 0;
+    top: 0;
+    background: url("../images/yuna-sending.jpg") center center;
+    width: 100vw;
+    height: 100vh;
+    z-index: -9000;
+}
+.yuna-background-dark {
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: #00000077;
+    width: 100vw;
+    height: 100vh;
+    z-index: -8000;
 }
 
-h2{
-    background-color: white;
-    color:#ad2be0;
-}
-
-#menu{
-    
-    outline-style: solid;
-    outline-width: 5px;
-    outline-color:blue;
-    padding: 5px;
-    
-
-    
-}
-
-
-#about{
-    text-align: center;
-}
-#profilePic{
-    display: block;
-    margin-left: 125px;
-    margin-right: 90px;
-    outline-width: 5px;
-    outline-style: solid;
-    
-}
-
-#games{
-    display: block;
-}
-
-#profile{
-    background-color: #0066ff;
-    float: left;
-    outline-style: dotted;
-    outline-color: blanchedalmond;
-    outline-width: 10px;
-    text-align: left;
-    padding: 5px
-}
-
-#guildCard{
-    float: center;
-}
-
-#scs{
-    position: sticky;
-    float: center;
-}
-
-#tekken{
-    float:center;
-    margin-top: 100px;
-}
-
-#iron{
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #660066; 
-}
-
-h3{
-    color: #000099;
-}
-
-#fave{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #000099;
-    outline-style: dashed;
-    outline-color: #003300;
-    outline-width: 5px;
-}
-
-#backTop{
-    color: gray;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding: 15px;
-    font-size: 20px;
-}
