@@ -105,6 +105,7 @@
 }
 
 #games{
+    float:left;
     position: static; text-align: center;
     width: 500px;
     margin: auto;
@@ -114,9 +115,7 @@
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-#guildCard{
-    float:center;
-}
+
 #mhw{
     position: static; text-align: center;
     width: 500px;
@@ -128,8 +127,50 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+#sc{
+    position: static; text-align: center;
+    width: 500px;
+    margin: auto;
+    outline-style: solid;
+    outline-width: 5px;
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 
+#iron{
+    position: static; text-align: center;
+    width: 500px;
+    margin: auto;
+    outline-style: solid;
+    outline-width: 5px;
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 
+#fave{
+    position: static; text-align: center;
+    width: 500px;
+    margin: auto;
+    float: left;
+    outline-style: solid;
+    outline-width: 5px;
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+h3{
+    position: static; text-align: center;
+    width: 500px;
+    margin: auto;
+    float: center;
+    outline-style: solid;
+    outline-width: 5px;
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 
 
 
