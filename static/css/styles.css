@@ -39,3 +39,40 @@
     color: white;
 }
 
+#title{
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    float: center;
+    outline-style: solid;
+    outline-width: 5px;
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#desc{
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    float: center;
+    outline-style: solid;
+    outline-width: 5px;
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#menu{
+    position: static; text-align: center;
+    width: 500px;
+    margin: auto;
+    float: center;
+    outline-style: solid;
+    outline-width: 5px;
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
