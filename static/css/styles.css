@@ -27,6 +27,7 @@
     
 }
 .myPics {display:none;}
+.mhwScs{display:none;}
 .titleName{
     text-align: center;
     display: block;
@@ -104,6 +105,7 @@
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
 
 #games{
     float:left;
